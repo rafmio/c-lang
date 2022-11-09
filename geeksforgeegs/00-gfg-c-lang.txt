@@ -1,2 +1,3 @@
-https://www.geeksforgeeks.org/interesting-facts-preprocessors-c/https://www.geeksforgeeks.org/c-programming-language-standard/
-Paragraph 10) "A header file may..."
+https://www.geeksforgeeks.org/g-fact-16/
+
+$ gcc -Wall filename.c -o filename
