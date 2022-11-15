@@ -1,3 +1,3 @@
 w3schools
 last stop:
-https://www.w3schools.com/c/c_while_loop.php
+https://www.w3schools.com/c/c_user_input.php
