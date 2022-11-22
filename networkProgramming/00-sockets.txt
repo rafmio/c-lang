@@ -1,0 +1,26 @@
+Sockets
+Unix programs do any sort of I/O by reading or writing to a file descriptor.
+A file descriptor is simply an integer associated with an open file.
+When you want to communicate with another program over the Internet you're
+gonna do it through a file descriptor.
+You make a call to the socket() sysem routine. It returns the socket 
+descriptor, and you communicate through it using the specialized send() 
+and recv() socket calls.
+
+There are two types of Internet sockets:
+1.Stream Socket ("SOCK_STREAM")
+2.Datagram Socket ("SOCK_DGRAM") - "connectionless socket"
+
+Stream sockets are reliable two-way connected communication streams.
+Browsers use HTTP wich uses stream sockets to get pages.
+
+With datagram sockets you don't have to maintaion an open connection as you
+do with stream sockets. You just build a packet, slap IP header on it with
+destination information, and send it out. No connection needed.
+
+Stream sockets uses TCP.
+Datagram sockets uses UDP.
+
+Host-to-Host Transport Layer(TCP, UDP)
+
+
