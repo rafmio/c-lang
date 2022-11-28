@@ -1,0 +1,3 @@
+https://overiq.com/c-programming-101/conditional-operator-comma-operator-and-sizeof-operator-in-c/
+
+COnditional operator, comma operator, sizeof()
