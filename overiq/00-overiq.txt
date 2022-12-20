@@ -1,3 +1,2 @@
-https://overiq.com/c-programming-101/the-infinite-loop-in-c/
-
-Begin infinite loop
+The break Statement inside a Nested Loop
+https://overiq.com/c-programming-101/the-break-and-continue-statement-in-c/
