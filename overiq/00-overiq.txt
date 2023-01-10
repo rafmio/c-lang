@@ -1,2 +1,3 @@
-Started:
-https://overiq.com/c-programming-101/the-return-statement-in-c/
+
+Initializing Array
+https://overiq.com/c-programming-101/one-dimensional-array-in-c/
