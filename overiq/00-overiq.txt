@@ -1,3 +1,2 @@
-
-Initializing Array
-https://overiq.com/c-programming-101/one-dimensional-array-in-c/
+Started:
+https://overiq.com/c-programming-101/pointer-arithmetic-in-c/
