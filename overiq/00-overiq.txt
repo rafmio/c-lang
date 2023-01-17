@@ -1,2 +1,2 @@
 Started:
-https://overiq.com/c-programming-101/pointer-arithmetic-in-c/
+https://overiq.com/c-programming-101/pointers-and-2-d-arrays/
