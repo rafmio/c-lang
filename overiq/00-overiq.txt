@@ -1,2 +1,2 @@
 Started:
-https://overiq.com/c-programming-101/pointers-and-2-d-arrays/
+https://overiq.com/c-programming-101/passing-1-d-array-to-a-function-in-c/
